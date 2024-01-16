@@ -3,6 +3,6 @@ resource "azurerm_resource_group" "myname" {
     location = "eastus"
 
     tags = {
-         edit = "github"
+         edit = "Test"
     }
 }
